@@ -11,8 +11,7 @@ A data-driven project analyzing the **Music Store database** using SQL to extrac
 - **Query Optimization:** Improved SQL queries for efficiency and faster data retrieval.  
 
 ## 🛠️ Tech Stack  
-- **SQL (PostgreSQL/MySQL/SQLite)** – For querying and analyzing the database  
-- **Python (Pandas, Matplotlib, Seaborn)** – For data visualization  
+- **SQL (PostgreSQL/MySQL/SQLite)** – For querying and analyzing the database   
 - **MS Excel** – For additional data processing and reporting  
 
 ## 📂 Dataset & Schema  
